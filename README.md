@@ -1,7 +1,7 @@
 # Python-for-everyone
 ### Goals
 
--   Complete the Python for Everybody Specialization
+-   Learning to program properly and build a solid base of knowledge.
 
 ### Boundaries / Scope
 
