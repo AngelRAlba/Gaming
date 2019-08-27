@@ -1,4 +1,4 @@
-# Python-for-everyone
+# Some-Kind-Of-Game
 ### Goals
 
 -   Work in Progress
