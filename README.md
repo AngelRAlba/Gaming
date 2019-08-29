@@ -33,15 +33,15 @@
 
 Week:
 
-1.find and download a game making program. Learn its functions
-2.toy around and figure out the programming
-3.figure out the modeling or assets
-4.have the main controls properly implimented
-5.create the programing for a score system
-6.have a accurate representation of the score
-7.create the programs and functions for the games obstacles
-8.
-9.
-10.
-11. 
-12. 
+-   1.find and download a game making program. Learn its functions
+-   2.toy around and figure out the programming
+-   3.figure out the modeling or assets
+-   4.have the main controls properly implimented
+-   5.create the programing for a score system
+-   6.have a accurate representation of the score
+-   7.create the programs and functions for the games obstacles
+-   8.
+-   9.
+-   10.
+-   11. 
+-   12. 
