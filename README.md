@@ -40,8 +40,8 @@ Week:
 -   5.create the programing for a score system
 -   6.have a accurate representation of the score
 -   7.create the programs and functions for the games obstacles
--   8.
--   9.
--   10.
--   11. 
--   12. 
+-   8.ey
+-   9.ey
+-   10.ey
+-   11. ey
+-   12. ey
