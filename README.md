@@ -33,10 +33,11 @@
 
 Week:
 
--   1.find and download a game making program. Learn its functions
--   2.toy around and figure out the programming
--   3.figure out the modeling or assets
--   4.have the main controls properly implimented
--   5.create the programing for a score system
--   6.have a accurate representation of the score
--   7.create the programs and functions for the games obstacles
+-   1.find and download a game making program. (I am going to use unity)
+-   2.toy around and figure out the programming (I'm looking at the example game and its files for a bit of a understanding)
+-   3.figure out the modeling or assets (I was able to download some free assets from the asset store)
+-   4.Start using some of the assets for characters and backgrounds (I was able to create the background and a platform with proper layering.)
+-   5.figure out a common sprite animation for collactables (I created a coin using the animation tools and the images provided)
+-   6.
+-   7.
+-   8.
