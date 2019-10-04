@@ -36,8 +36,7 @@ Week:
 -   1.find and download a game making program. (I am going to use unity)
 -   2.toy around and figure out the programming (I'm looking at the example game and its files for a bit of a understanding)
 -   3.figure out the modeling or assets (I was able to download some free assets from the asset store)
--   4.Start using some of the assets for characters and backgrounds (I was able to create the background and a platform with proper layering.)
+-   4.Start using some of the assets for characters and backgrounds (I was able to create the background and a platform with proper           layering.)
 -   5.figure out a common sprite animation for collactables (I created a coin using the animation tools and the images provided)
--   6.
--   7.
--   8.
+-   6.figure out how to use the character sprites and animations (I tried to use the images of the character as if it was a sprite liker       the coin but it just shifted images instead of coming together.)
+-   7.Put that character together (I finally found a tutorial talking about using each image seperatly and placing the character               together, I created the hero named "Meat", I even gave him a original idle animation using the animation tools)
